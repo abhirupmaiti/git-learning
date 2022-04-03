@@ -1,1 +1,1 @@
-# git-learning
+# knowledgeGate git learning project
